@@ -5,6 +5,7 @@ body
     margin-left: 100px;
     margin-bottom: 150px;
     margin-top: 120px;
+    border-style: groove;
     width: 70%;
 
 }
