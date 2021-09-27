@@ -9,6 +9,12 @@ body
 
 }
 
+pic
+{
+    border-style: groove;   
+    
+}
+
 nav ul, footer ul
 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
