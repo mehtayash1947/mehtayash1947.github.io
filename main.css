@@ -1,7 +1,10 @@
 body 
 {
     background-color: lightblue;
-    margin : 60px auto;
+    margin-right : 60px auto;
+    margin-left : 60px auto;
+    margin-top : 60px auto;
+    margin-bottom : 60px auto;
     width: 70%;
 
 }
